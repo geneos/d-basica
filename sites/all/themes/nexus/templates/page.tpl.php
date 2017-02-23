@@ -93,6 +93,17 @@
     </div>
   </header>
 
+  <?php if($page['header']) : ?>
+    <div id="header-block">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <?php print render($page['header']); ?>
+          </div>
+        </div>
+      </div>
+    </div>
+  <?php endif; ?>
 
   <?php if ($is_front): ?>
   <?php if (theme_get_setting('slideshow_display','nexus')): ?>
@@ -155,17 +166,6 @@
     </div>
   <?php endif; ?>
 
-  <?php if($page['header']) : ?>
-    <div id="header-block">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <?php print render($page['header']); ?>
-          </div>
-        </div>
-      </div>
-    </div>
-  <?php endif; ?>
 
     <div id="main-content">
     <div class="container"> 
@@ -234,7 +234,7 @@
     <div class="container">
       <div class="row">
         <div class="fcred col-sm-12">
-          <?php print t('Copyright'); ?> &copy; <?php echo date("Y"); ?>, <a href="<?php print $front_page; ?>"><?php print $site_name; ?></a>. <?php print t('Theme by'); ?>  <a href="http://www.devsaran.com" target="_blank">Devsaran</a>.
+          <?php print t('Desarrollado por Cooperativa '); ?> <a href="http://www.geneos.com.ar" target="_blank">GENEOS</a> <?php print t(' utilizando software libre '); ?>  <a href="http://www.drupal.com" target="_blank">Drupal</a>.
         </div>
       </div>
     </div>
