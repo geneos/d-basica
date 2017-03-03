@@ -312,32 +312,8 @@
                     <h3>Noticias</h3>
                     
                     <ul id="projects-carousel" class="loading">
-    
-                        <!-- PROJECT ITEM STARTS -->
-                        <li>
-                            <div class="item-content">
-                                <div class="link-holder">
-                                    <div class="portfolio-item-holder">
-                                        <div class="portfolio-item-hover-content">
-    
-                                            <a href="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/portfolio-img-4.jpg" title="title" data-rel="prettyPhoto" class="zoom">View Image</a>
-                                            
-                                            <img src="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/pt-img4.jpg" alt="" width="220" class="portfolio-img" />
-                                            
-                                            <div class="hover-options"></div>
-                                        </div>
-                                    </div>
-                                    <div class="description">
-                                        <p>
-                                            <a href="#" title="title"> Cras vel orci sapien</a>
-                                        </p>
-                                        <span>Illustration / Web</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- PROJECT ITEM ENDS -->
-    
+   
+
                          <!-- PROJECT ITEM STARTS -->
                         <li>
                             <div class="item-content">
@@ -345,7 +321,6 @@
                                     <div class="portfolio-item-holder">
                                         <div class="portfolio-item-hover-content">
     
-                                            <a href="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/portfolio-img-5.jpg" title="title" data-rel="prettyPhoto" class="zoom">View Image</a>
                                             
                                             <img src="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/pt-img5.jpg" alt="" width="220" class="portfolio-img" />
                                             
@@ -356,7 +331,6 @@
                                         <p>
                                             <a href="#" title="title">Locales</a>
                                         </p>
-                                        <span>Illustration / Web</span>
                                     </div>
                                 </div>
                             </div>
@@ -370,8 +344,7 @@
                                     <div class="portfolio-item-holder">
                                         <div class="portfolio-item-hover-content">
     
-                                            <a href="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/portfolio-img-1.jpg" title="title" data-rel="prettyPhoto" class="zoom">View Image</a>
-                                            
+                                        
                                             <img src="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/pt-img1.jpg" alt="" width="220" class="portfolio-img" />
                                             
                                             <div class="hover-options"></div>
@@ -381,7 +354,6 @@
                                         <p>
                                             <a href="#" title="title"> Provinciales</a>
                                         </p>
-                                        <span>Web</span>
                                     </div>
                                 </div>
                             </div>
@@ -395,8 +367,7 @@
                                     <div class="portfolio-item-holder">
                                         <div class="portfolio-item-hover-content">
     
-                                            <a href="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/portfolio-img-2.jpg" title="title" data-rel="prettyPhoto" class="zoom">View Image</a>
-                                            
+                                           
                                             <img src="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/pt-img2.jpg" alt="" width="220" class="portfolio-img" />
                                             
                                             <div class="hover-options"></div>
@@ -406,7 +377,6 @@
                                         <p>
                                             <a href="#" title="title"> Nacionales</a>
                                         </p>
-                                        <span>Illustration</span>
                                     </div>
                                 </div>
                             </div>
@@ -420,7 +390,6 @@
                                     <div class="portfolio-item-holder">
                                         <div class="portfolio-item-hover-content">
     
-                                            <a href="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/portfolio-img-3.jpg" title="title" data-rel="prettyPhoto" class="zoom">View Image</a>
                                             
                                             <img src="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/sampleimages/pt-img3.jpg" alt="" width="220" class="portfolio-img" />
                                             
@@ -431,7 +400,6 @@
                                         <p>
                                             <a href="#" title="title"> Patria Grande</a>
                                         </p>
-                                        <span>Illustration</span>
                                     </div>
                                 </div>
                             </div>
@@ -441,7 +409,7 @@
                     </ul>
     
                     <!-- // optional "view full portfolio" button on homepage featured projects -->
-                    <a href="#" class="colored" title="portofolio">View full portofolio</a> 
+                    <a href="noticias" class="colored" title="portofolio">Ver todas las noticias</a> 
                
                 <?php endif; ?>
 

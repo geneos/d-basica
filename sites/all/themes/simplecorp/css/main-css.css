@@ -714,7 +714,7 @@ left: 45%; margin-top: -55px; z-index: 10; text-indent: -9999px; }
 .portfolio-item-hover-content .hover-options { display: block; font-style: normal; position: absolute; width: 100%; height: 100%; z-index: 9; top: 0; left: 0; 
 background: #fff url("../images/portfolio-hover-bg.png") repeat; opacity: 0; filter: alpha(opacity:0); cursor: pointer; }
 
-#banner-inside, #slider-container { border-bottom: 1px solid #E1E1E1; margin-bottom: 30px; padding-bottom: 35px; }
+#banner-inside, #slider-container { border-bottom: 1px solid #E1E1E1; margin-bottom: 15px; padding-bottom: 15px; }
 
 #banner-inside #slider-container { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
 
