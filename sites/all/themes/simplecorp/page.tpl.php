@@ -329,7 +329,7 @@
                                     </div>
                                     <div class="description">
                                         <p>
-                                            <a href="#" title="title">Locales</a>
+                                            <a href="noticias/locales" title="title">Locales</a>
                                         </p>
                                     </div>
                                 </div>
@@ -352,7 +352,7 @@
                                     </div>
                                     <div class="description">
                                         <p>
-                                            <a href="#" title="title"> Provinciales</a>
+                                            <a href="noticias/provinciales" title="title"> Provinciales</a>
                                         </p>
                                     </div>
                                 </div>
@@ -375,7 +375,7 @@
                                     </div>
                                     <div class="description">
                                         <p>
-                                            <a href="#" title="title"> Nacionales</a>
+                                            <a href="noticias/nacionales" title="title"> Nacionales</a>
                                         </p>
                                     </div>
                                 </div>
@@ -398,7 +398,7 @@
                                     </div>
                                     <div class="description">
                                         <p>
-                                            <a href="#" title="title"> Patria Grande</a>
+                                            <a href="noticias/patria-grande" title="title"> Patria Grande</a>
                                         </p>
                                     </div>
                                 </div>
