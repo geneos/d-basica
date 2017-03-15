@@ -7,3 +7,9 @@
 .efemerides-portada {
 	text-align: center;
 }
+
+
+#featured {
+display: none;
+}
+

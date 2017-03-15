@@ -18,8 +18,8 @@
                     <!-- #social-icons -->
                     <div id="social-icons" class="clearfix">
                         <ul id="social-links">
-                            <li class="facebook-link"><a href="https://www.facebook.com/morethan.just.themes" class="facebook" id="social-01" title="Join Us on Facebook!">Facebook</a></li>
-                            <li class="twitter-link"><a href="https://twitter.com/morethanthemes" class="twitter" id="social-02" title="Follow Us on Twitter">Twitter</a></li>
+                            <li class="facebook-link"><a href="https://www.facebook.com/morethan.just.themes" class="facebook" id="social-01" title="Buscanos en Facebook!">Facebook</a></li>
+                            <li class="twitter-link"><a href="https://twitter.com/morethanthemes" class="twitter" id="social-02" title="Seguinos en Twitter">Twitter</a></li>
                         </ul>
                     </div>
                     <!-- EOF: #social-icons -->
